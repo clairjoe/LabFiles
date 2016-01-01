@@ -1,3 +1,5 @@
+package cscd211Lab0;
+
 import java.io.*;
 import java.util.*;
 import cscd211Utils.FileUtil;
