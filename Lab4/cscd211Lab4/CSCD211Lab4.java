@@ -7,7 +7,7 @@ import cscd211LinkedList.*;
 
 public class CSCD211Lab4
 {
-   public static void main(String [] args)
+   public static void main(String [] args)throws Exception
    {
       BoxCar aCar = null;
       boolean res =  false;
